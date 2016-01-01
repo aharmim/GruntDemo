@@ -1,0 +1,25 @@
+{
+	"name": "Inside-CMS",
+	"description": "E-shop s počítačovými komponenty - Redakční systém",
+	"type": "project",
+	"keywords": ["javascript", "jQuery", "css", "bootstrap", "font-awesome", "admin-lte", "respond", "html5shiv"],
+	"homepage": "inside.localhost.com/dh",
+	"authors": [
+		{
+			"name": "Dominik Harmim",
+			"homepage": "http://dharmim.cz",
+			"email": "harmim6@gmail.com"
+		}
+	],
+	"private": true,
+	"dependencies": {
+		"jquery": "~2.1.4",
+		"jquery-ui": "~1.11.4",
+		"bootstrap": "~3.3.5",
+		"font-awesome": "~4.4.0",
+		"ionicons": "~2.0.1",
+		"admin-lte": "~2.3.2",
+		"html5shiv": "~3.7.3",
+		"respond": "~1.4.2"
+	}
+}

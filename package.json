@@ -1,0 +1,22 @@
+{
+	"name": "Inside",
+	"description": "E-shop s počítačovými komponenty",
+	"type": "project",
+	"keywords": ["javascript", "grunt", "concat", "less", "uglify", "copy", "bower"],
+	"homepage": "inside.localhost.com",
+	"authors": [
+		{
+			"name": "Dominik Harmim",
+			"homepage": "http://dharmim.cz",
+			"email": "harmim6@gmail.com"
+		}
+	],
+	"private": true,
+	"dependencies": {
+		"grunt": "~0.4.5",
+		"grunt-bower-install-simple": "~1.2.0",
+		"grunt-contrib-concat": "~0.5.1",
+		"grunt-contrib-uglify": "~0.11.0",
+		"grunt-contrib-copy": "~0.8.2"
+	}
+}
